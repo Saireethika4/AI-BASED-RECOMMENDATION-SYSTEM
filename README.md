@@ -20,3 +20,4 @@ The project structure included a `data` folder with the CSV file and a `src` fol
 
 #output
 
+![Image](https://github.com/user-attachments/assets/ca05e9d8-4d3d-42e1-9fbf-e02d4ee1cc5e)
